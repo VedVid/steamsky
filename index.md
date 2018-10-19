@@ -53,13 +53,8 @@ Windows (development version only).
     strong for you, you can try escape from combat too.
 
 ## Downloads
-- Latest stable release: 2.0.11 (2018-09-30)
+- Latest stable release: [2.0.11](https://github.com/thindil/steamsky/releases/tag/v2.0.11) (2018-09-30)
 
-  [Linux 64-bit](https://github.com/thindil/steamsky/releases/download/v2.0.11/steamsky-2.0.11-Linux-64.tar.gz)
-  [Source code](https://github.com/thindil/steamsky/archive/v2.0.11.zip)
-- Latest development release: 2.9-dev (2018-10-07)
+- Latest development release: [2.9-dev](https://github.com/thindil/steamsky/releases/tag/v2.9-dev) (2018-10-07)
 
-  [Linux 64-bit](https://github.com/thindil/steamsky/releases/download/v2.9-dev/steamsky-2.9-Linux-64.tar.xz)
-  [Windows 64-bit](https://github.com/thindil/steamsky/releases/download/v2.9-dev/steamsky-2.9-Windows-64.7z)
-  [Source code](https://github.com/thindil/steamsky/archive/v2.9-dev.zip)
 - [All releases](https://github.com/thindil/steamsky/releases)

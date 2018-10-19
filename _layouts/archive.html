@@ -1,0 +1,31 @@
+<!DOCTYPE html>
+<html lang="en">
+   <head>
+      <meta charset="UTF-8">
+      <meta name="viewport" content="width=device-width">
+      <link href="{{ site.baseurl }}/assets/css/style.css" rel="stylesheet" />
+      {% seo %}
+   </head>
+   <body>
+      <header id="header">
+         <h1><a href="{{ site.baseurl }}/">{{ site.name }}</a></h1>
+         <p>{{ site.description }}</p>
+         <p><a class="menu" href="{{ site.baseurl }}/#downloads">Downloads</a> <a class="menu" href="{{ site.baseurl }}/screenshots.html">Screenshots</a> <a class="menu" href="{{ site.baseurl }}/category/news">News</a> <a class="menu" href="https://laeran.pl/forum">Forum</a> <a class="menu" href="https://github.com/thindil/steamsky">GitHub</a></p>
+      </header>
+      <div id="page">
+         <div id="content">
+            <ul class="posts">
+            {% for post in page.posts %}
+               <li>
+                  <span class="post-date">{{ post.date | date: "%b %-d, %Y" }}</span>
+                  <a class="post-link" href="{{ post.url | prepend: site.baseurl }}">{{ post.title }}</a>
+               </li>
+            {% endfor %}
+            </ul>
+         </div>
+      </div>
+      <footer id="footer">
+         <p>Copyright &copy; 2016-2018 <a href="https://laeran.pl/forum/contact.php">Bartek thindil Jasicki</a>. Powered by <a href="https://jekyllrb.com">Jekyll</a>. <a href="{{ site.baseurl }}/feed.xml">Atom feed</a></p>
+      </footer>
+   </body>
+</html>

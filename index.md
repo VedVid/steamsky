@@ -8,7 +8,7 @@ fighting with enemies, trading goods, etc. The game is more strategy based
 than tactical like most of roguelikes. There is no end goal for game, and you
 can play as long as your character does not die. Game is under heavy
 development, but is generally playable. Now game is available on Linux and
-Windows (development version only).
+Windows (both 64-bit).
 
 ## Features
 - Buy cheaply, sell expensive: find best trade routes between sky bases.
@@ -53,8 +53,10 @@ Windows (development version only).
     strong for you, you can try escape from combat too.
 
 ## Downloads
-- Latest stable release: [2.0.11](https://github.com/thindil/steamsky/releases/tag/v2.0.11) (2018-09-30)
+- Latest stable release: [3.0](https://github.com/thindil/steamsky/releases/tag/v3.0) (2018-11-04)
 
 - Latest development release: [2.9-dev](https://github.com/thindil/steamsky/releases/tag/v2.9-dev) (2018-10-07)
+
+- Last console (Linux only) release: [2.0.11](https://github.com/thindil/steamsky/releases/tag/v2.0.11) (2018-09-30)
 
 - [All releases](https://github.com/thindil/steamsky/releases)

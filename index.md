@@ -53,7 +53,7 @@ available on Linux and Windows 64 bit platforms.
     strong for you, you can try escape from combat too.
 
 ## Downloads
-- Latest stable release: [3.0](https://github.com/thindil/steamsky/releases/tag/v3.0) (2018-11-04)
+- Latest stable release: [3.0.1](https://github.com/thindil/steamsky/releases/tag/v3.0.1) (2018-11-25)
 
 - Latest development release: [2.9-dev](https://github.com/thindil/steamsky/releases/tag/v2.9-dev) (2018-10-07)
 

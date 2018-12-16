@@ -54,7 +54,7 @@ available on Linux and Windows 64 bit platforms.
     enemy is too strong for you, you can try escape from combat too.
 
 ## Downloads
-- Latest stable release: [3.0.1](https://github.com/thindil/steamsky/releases/tag/v3.0.1) (2018-11-25)
+- Latest stable release: [3.0.2](https://github.com/thindil/steamsky/releases/tag/v3.0.2) (2018-12-16)
 
 - Latest development release: [3.1-dev](https://github.com/thindil/steamsky/releases/tag/v3.1-dev) (2018-12-02)
 

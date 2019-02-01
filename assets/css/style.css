@@ -1,48 +1,48 @@
 /*** Reset ***/
 html, body, div, span, applet, object, iframe, h1, h2, h3, h4, h5, h6, p, blockquote, pre, a, abbr, acronym, address, big, cite, code, del, dfn, em, img, ins, kbd, q, s, samp, small, strike, strong, sub, sup, tt, var, b, u, i, center, dl, dt, dd, ol, ul, li, fieldset, form, label, legend, table, caption, tbody, tfoot, thead, tr, th, td, article, aside, canvas, details, embed, figure, figcaption, footer, header, hgroup, menu, nav, output, ruby, section, summary, time, mark, audio, video {
-	margin: 0;
-	padding: 0;
-	border: 0;
-	font-size: 100%;
-	font: inherit;
-	vertical-align: baseline;
+   margin: 0;
+   padding: 0;
+   border: 0;
+   font-size: 100%;
+   font: inherit;
+   vertical-align: baseline;
 }
 article, aside, details, figcaption, figure, footer, header, hgroup, menu, nav, section {
-	display: block;
+   display: block;
 }
 body {
-	line-height: 1;
+   line-height: 1;
 }
 ol, ul {
-	list-style: bullet;
+   list-style: bullet;
 }
 blockquote, q {
-	quotes: none;
+   quotes: none;
 }
 blockquote:before, blockquote:after, q:before, q:after {
-	content: '';
-	content: none;
+   content: '';
+   content: none;
 }
 table {
-	border-collapse: collapse;
-	border-spacing: 0;
+   border-collapse: collapse;
+   border-spacing: 0;
 }
 
 /*** Basics ***/
 body {
-	font-family: Verdana, serif;
-	font-size: 16px;
-	line-height: 1.5;
+   font-family: Verdana, serif;
+   font-size: 16px;
+   line-height: 1.5;
 }
 
 a, a:active, a:visited {
-	text-decoration: none;
-	padding-bottom: 2px;
+   text-decoration: none;
+   padding-bottom: 2px;
    padding: 4px 5px;
 }
 a:hover {
-	background-color: #839496;
-	color: #000000;
+   background-color: #839496;
+   color: #000000;
    border-radius: 12px;
    padding: 4px 5px;
 }
@@ -57,40 +57,40 @@ sup { vertical-align: super; font-size: 0.85em; }
 sub { vertical-align: sub; font-size: 0.85em; }
 
 code {
-    font: 0.85em Monaco, Courier, Monospace;
+   font: 0.85em Monaco, Courier, Monospace;
 }
 
 blockquote {
-    margin: 22px 22px;
-    padding: 0 20px;
-    border-left: 2px solid #000000;
-    font-size: 1.2em;
-    font-style: italic;
-    line-height: 1.5em;
+   margin: 22px 22px;
+   padding: 0 20px;
+   border-left: 2px solid #000000;
+   font-size: 1.2em;
+   font-style: italic;
+   line-height: 1.5em;
 }
 
 acronym, abbr {
-	cursor: help;
-	letter-spacing: 1px;
-	border-bottom: 1px dashed;
+   cursor: help;
+   letter-spacing: 1px;
+   border-bottom: 1px dashed;
 }
 
 
 h1 {
-	font-size: 20px;
-	margin: 0 0 10px 0;
+   font-size: 20px;
+   margin: 0 0 10px 0;
 }
 h2 {
-	font-size: 18px;
-	margin: 0 0 10px 0;
+   font-size: 18px;
+   margin: 0 0 10px 0;
 }
 h3 {
-	font-size: 16px;
-	margin: 0 0 10px 0;
+   font-size: 16px;
+   margin: 0 0 10px 0;
 }
 
 hr {
-	border-top: 1px double rgb(238,232,170);
+   border-top: 1px double rgb(238,232,170);
 }
 
 
@@ -113,13 +113,13 @@ hr {
 
 /*** Structure ***/
 #page {
-	width: 700px;
+	width: 95%;
 	margin: 0 auto;
 	position: relative;
 }
 
 #header {
-	width: 700px;
+	width: 95%;
 	margin: 40px auto 50px auto;
 	border-bottom: 1px dashed gray;
    text-align: center;
@@ -133,7 +133,7 @@ hr {
 }
 
 #footer {
-	width: 700px;
+	width: 95%;
 	margin: 50px auto 20px auto;
 	padding-top: 10px;
 	font-size: 0.85em;
@@ -141,7 +141,7 @@ hr {
 }
 
 #content {
-	width: 700px;
+	width: 90%;
 	margin: 0 auto;
 }
 
@@ -248,6 +248,7 @@ blockquote {
 
 #footer {
 	border-color: gray;
+   text-align: center;
 }
 
 .highlight .hll { background-color: #404040 }

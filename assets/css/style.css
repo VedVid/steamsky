@@ -7,7 +7,7 @@ html, body, div, span, applet, object, iframe, h1, h2, h3, h4, h5, h6, p, blockq
    font: inherit;
    vertical-align: baseline;
 }
-article, aside, details, figcaption, figure, footer, header, hgroup, menu, nav, section {
+article, aside, details, figcaption, figure, footer, header, hgroup, nav, section {
    display: block;
 }
 body {
@@ -43,7 +43,6 @@ a, a:active, a:visited {
 a:hover {
    background-color: #839496;
    color: #000000;
-   border-radius: 12px;
    padding: 4px 5px;
 }
 
@@ -115,7 +114,6 @@ hr {
 #page {
 	width: 95%;
 	margin: 0 auto;
-	position: relative;
 }
 
 #header {
@@ -146,37 +144,17 @@ hr {
 }
 
 a.menu {
-	border: 2px solid;
-   border-radius: 12px;
    padding: 4px 5px;
+   display: inline-block;
+   text-align: center;
 }
 
-/*** Posts ***/
-article {
-	margin-bottom: 20px;
-}
-
-article h1 {
-	font-size: 20px;
-	margin: 0 0 10px 0;
-}
-article h1 a {
-	border: none;
-}
-article h1 a.anchor {
-	margin-left: 8px;
-}
-
-article img {
-	display: block;
-	text-align: center;
-	margin: 0 auto 1em auto;
-}
-
-article .meta {
-	padding-top: 6px;
-	font-size: 0.85em;
-	font-style: italic;
+div.menu {
+   overflow: hidden;
+   position: fixed;
+   top: 0;
+   width: 100%;
+   background-color: rgb(23,23,23);
 }
 
 img.left {
@@ -230,16 +208,6 @@ a.image:hover {
 
 h1, h2, h3 {
 	color: #cb4b16;
-}
-
-h1 a, h1 a:visited, h1 a:active {
-	color: #cb4b16;
-}
-
-h1 a:hover {
-	background-color: #073642;
-	border-color: #073642;
-   color: rgb(255,223,0);
 }
 
 blockquote {

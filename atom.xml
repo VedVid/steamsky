@@ -2,11 +2,18 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
  <id>https://thindil.github.io/steamsky/</id>
  <title>Steam Sky</title>
- <updated>2019-03-02T09:04:55Z</updated>
+ <updated>2019-03-03T06:10:00Z</updated>
+ <entry>
+  <id>https://thindil.github.io/steamsky/news.html#20190303</id>
+  <title>Stable release: 3.0.6 2019-03-03</title>
+  <updated>2019-03-03T06:10:00Z</updated>
+  <content>https://thindil.github.io/steamsky/news.html#20190303</content>
+ </entry>
  <entry>
   <id>https://thindil.github.io/steamsky/news.html#20190302</id>
-  <title>2019-03-02</title>
+  <title>Weekly development report: 2019-03-02</title>
   <updated>2019-03-02T09:00:00Z</updated>
+  <content>https://thindil.github.io/steamsky/news.html#20190302</content>
  </entry>
 </feed>
 

@@ -171,6 +171,10 @@ img.center {
 	margin: 0 auto 1em auto;
 }
 
+div.date {
+   font-size:0.6em;
+   padding-bottom: 5px;
+}
 
 
 /*** Media Queries ***/

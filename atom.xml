@@ -5,15 +5,17 @@
  <updated>2019-03-03T06:10:00Z</updated>
  <entry>
   <id>https://thindil.github.io/steamsky/news.html#20190303</id>
-  <title>Stable release: 3.0.6 2019-03-03</title>
+  <title>Stable release: 3.0.6</title>
   <updated>2019-03-03T06:10:00Z</updated>
   <content>https://thindil.github.io/steamsky/news.html#20190303</content>
+  <link href="https://thindil.github.io/steamsky/news.html#20190303" rel="alternate"/>
  </entry>
  <entry>
   <id>https://thindil.github.io/steamsky/news.html#20190302</id>
-  <title>Weekly development report: 2019-03-02</title>
+  <title>Weekly development report</title>
   <updated>2019-03-02T09:00:00Z</updated>
   <content>https://thindil.github.io/steamsky/news.html#20190302</content>
+  <link href="https://thindil.github.io/steamsky/news.html#20190302" rel="alternate"/>
  </entry>
 </feed>
 

@@ -1,8 +1,20 @@
 ﻿<?xml version="1.0" encoding="utf-8"?>
 <feed xmlns="http://www.w3.org/2005/Atom">
+ <link href="https://thindil.github.io/steamsky/atom.xml" rel="self"/>
  <id>https://thindil.github.io/steamsky/</id>
  <title>Steam Sky</title>
- <updated>2019-03-17T06:10:00Z</updated>
+ <updated>2019-03-23T09:05:00Z</updated>
+ <author>
+  <name>John Doe</name>
+  <email>johndoe@example.com</email>
+ </author>
+ <entry>
+  <id>https://thindil.github.io/steamsky/news.html#20190323</id>
+  <title>Weekly development report: 2019/03/23</title>
+  <updated>2019-03-23T09:05:00Z</updated>
+  <content>https://thindil.github.io/steamsky/news.html#20190323</content>
+  <link href="https://thindil.github.io/steamsky/news.html#20190323" rel="alternate"/>
+ </entry>
  <entry>
   <id>https://thindil.github.io/steamsky/news.html#20190317</id>
   <title>Stable release: 3.0.7</title>
@@ -13,7 +25,7 @@
  <entry>
   <id>https://thindil.github.io/steamsky/news.html#20190316</id>
   <title>Weekly development report: 2019/03/16</title>
-  <updated>2019-03-09T09:25:00Z</updated>
+  <updated>2019-03-16T09:25:00Z</updated>
   <content>https://thindil.github.io/steamsky/news.html#20190316</content>
   <link href="https://thindil.github.io/steamsky/news.html#20190316" rel="alternate"/>
  </entry>

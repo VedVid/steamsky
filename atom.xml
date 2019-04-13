@@ -3,11 +3,18 @@
  <link href="https://thindil.github.io/steamsky/atom.xml" rel="self"/>
  <id>https://thindil.github.io/steamsky/</id>
  <title>Steam Sky</title>
- <updated>2019-04-06T08:14:00Z</updated>
+ <updated>2019-04-13T07:55:00Z</updated>
  <author>
   <name>Bartek thindil Jasicki</name>
   <email>thindil@laeran.pl</email>
  </author>
+ <entry>
+  <id>https://thindil.github.io/steamsky/news.html#20190413</id>
+  <title>Weekly development report: 2019/04/13</title>
+  <updated>2019-04-13T07:55:00Z</updated>
+  <content>https://thindil.github.io/steamsky/news.html#20190413</content>
+  <link href="https://thindil.github.io/steamsky/news.html#20190413" rel="alternate"/>
+ </entry>
  <entry>
   <id>https://thindil.github.io/steamsky/news.html#20190406</id>
   <title>Weekly development report: 2019/04/06</title>

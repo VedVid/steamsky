@@ -7,6 +7,14 @@ html, body, div, span, applet, object, iframe, h1, h2, h3, h4, h5, h6, p, blockq
    font: inherit;
    vertical-align: baseline;
 }
+@font-face {
+   font-family: Amarante;
+   src: url(assets/fonts/amarante.ttf);
+}
+@font-face {
+   font-family: Rye;
+   src: url(assets/fonts/rye.ttf);
+}
 article, aside, details, figcaption, figure, footer, header, hgroup, nav, section {
    display: block;
 }
@@ -30,8 +38,8 @@ table {
 
 /*** Basics ***/
 body {
-   font-family: Verdana, serif;
-   font-size: 16px;
+   font-family: Amarante, Verdana, serif;
+   font-size: 1.2em;
    line-height: 1.5;
 }
 
@@ -76,15 +84,18 @@ acronym, abbr {
 
 
 h1 {
-   font-size: 20px;
+   font-family: Rye, Verdana, serif;
+   font-size: 1.5em;
    margin: 0 0 10px 0;
 }
 h2 {
-   font-size: 18px;
+   font-family: Rye, Verdana, serif;
+   font-size: 1.2em;
    margin: 0 0 10px 0;
 }
 h3 {
-   font-size: 16px;
+   font-family: Rye, Verdana, serif;
+   font-size: 1.0em;
    margin: 0 0 10px 0;
 }
 
@@ -123,7 +134,7 @@ hr {
    text-align: center;
 }
 #header h1 {
-	font-size: 35px;
+	font-size: 3.0em;
 	margin-bottom: 4px;
 }
 #header h1 a {

@@ -9,11 +9,11 @@ html, body, div, span, applet, object, iframe, h1, h2, h3, h4, h5, h6, p, blockq
 }
 @font-face {
    font-family: Amarante;
-   src: url(assets/fonts/amarante.ttf);
+   src: url('assets/fonts/amarante.ttf') format('truetype');
 }
 @font-face {
    font-family: Rye;
-   src: url(assets/fonts/rye.ttf);
+   src: url('assets/fonts/rye.ttf') format('truetype');
 }
 article, aside, details, figcaption, figure, footer, header, hgroup, nav, section {
    display: block;

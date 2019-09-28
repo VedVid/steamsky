@@ -15,6 +15,9 @@
       </header>
       <div id="page">
          <div id="content">
+               <h2>Weekly development report: 2019/09/28<a name="20190928"></a></h2>
+               <div class="date">2019-09-28 07:53:00 </div>
+               <p>Stable version: some typos were fixed in documentation, but nothing new (or fixed) in the code. Which mean, in less than 24 hours after this post, here will be started another bug hunt called "stable release" :)</p><p>Development version:</p><p>Finally started work on new bases types, unique for each faction. It is done mostly by adding new flags to bases definitions in data file. For example you can add shipyard to Agricultural bases just by adding proper flag to it. Additionally, same flags used in help allow to dynamically show proper bases types. For example if someone adds shipyard to Agricultural base, in help text, where this same flag is used, will be info that shipyard is available in two bases types: Shipyard and Agricultural. Let's hope this not look too complicated :)</p><p>After creating proper system now it is time to start adding new bases types. For now only one arrived: Temple for the Inquisition. In that base type is available new action: Pray, which raise player character and the player ship crew members morale after some time. Additionally, Temple base have cheaper option for healing wounded crew members.</p><p>And as usual, around dozen new ship modules were added to the game, and under the hood: fun with unit tests continue.</p>
                <h2>Weekly development report: 2019/09/21<a name="20190921"></a></h2>
                <div class="date">2019-09-21 05:26:00 </div>
                p>In stable version, as usual, release was successful: another bug was found. At least this bug prove that people don't cheat in the game, because it is in debug options :) Of course, as usual, let's wait one week before next release, maybe something more will be found too.</p><p>Development version still focused on adding unique bases types for each faction. Or maybe better to write: preparing for it:</p><ul><li>Restored option to set separated price for each item in each base type. Just now it is in bases types data file not in items data file.</li><li>Added ability to set which bases types are available for each faction. By default all bases types are available for every faction, but players now can modify it in factions data file.</li><li>Added option to set spawn chance for each base type for each faction. Sound simple, but can have a large impact on the game. Now should be a bit easier to find Agricultural base for Poleis faction and Refinery for Drones - which mean easier to find food and drinks for the player ship crew. Again, everything is available to modify in factions data file, so players can easily customize this for they needs.</li><li>Fixed some small bugs, cleared the game code a bit, few new unit tests were written.</li><li>And copy+paste: again added few new ship modules to the game.</li></ul>
@@ -162,7 +165,7 @@
          </div>
       </div>
       <footer id="footer">
-         <p>Copyright &copy; 2016-2019 <a href="https://matrix.to/#/@thindil:matrix.org">Bartek thindil Jasicki</a>. Generated: 2019-09-21 07:26:50 with <a href="https://yet-another-static-site-generator.github.io/">Yass</a>. <a href="atom.xml">Atom feed</a></p>
+         <p>Copyright &copy; 2016-2019 <a href="https://matrix.to/#/@thindil:matrix.org">Bartek thindil Jasicki</a>. Generated: 2019-09-28 09:54:36 with <a href="https://yet-another-static-site-generator.github.io/">Yass</a>. <a href="atom.xml">Atom feed</a></p>
       </footer>
    </body>
 </html>

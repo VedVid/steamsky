@@ -3,11 +3,18 @@
  <link href="https://thindil.github.io/steamsky/atom.xml" rel="self"/>
  <id>https://thindil.github.io/steamsky/</id>
  <title>Steam Sky</title>
- <updated>2019-10-12T05:09:00Z</updated>
+ <updated>2019-10-13T04:53:00Z</updated>
  <author>
   <name>Bartek thindil Jasicki</name>
   <email>thindil@laeran.pl</email>
  </author>
+ <entry>
+  <id>https://thindil.github.io/steamsky/news.html#20191013</id>
+  <title>Stable release: 4.0.5</title>
+  <updated>2019-10-13T04:53:00Z</updated>
+  <content>https://thindil.github.io/steamsky/news.html#20191013</content>
+  <link href="https://thindil.github.io/steamsky/news.html#20191013" rel="alternate"/>
+ </entry>
  <entry>
   <id>https://thindil.github.io/steamsky/news.html#20191012</id>
   <title>Weekly development report: 2019/10/12</title>
@@ -175,13 +182,6 @@
   <updated>2019-06-29T09:35:00Z</updated>
   <content>https://thindil.github.io/steamsky/news.html#20190629</content>
   <link href="https://thindil.github.io/steamsky/news.html#20190629" rel="alternate"/>
- </entry>
- <entry>
-  <id>https://thindil.github.io/steamsky/news.html#20190623</id>
-  <title>Stable release: 3.0.13</title>
-  <updated>2019-06-23T06:49:00Z</updated>
-  <content>https://thindil.github.io/steamsky/news.html#20190623</content>
-  <link href="https://thindil.github.io/steamsky/news.html#20190623" rel="alternate"/>
  </entry>
 </feed>
 

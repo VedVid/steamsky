@@ -23,6 +23,13 @@
   <link href="https://thindil.github.io/steamsky/news.html#20191019" rel="alternate"/>
  </entry>
  <entry>
+  <id>https://thindil.github.io/steamsky/news.html#20191026</id>
+  <title>Weekly development report: 2019/10/26</title>
+  <updated>2019-10-19T05:29:00Z</updated>
+  <content>https://thindil.github.io/steamsky/news.html#20191026</content>
+  <link href="https://thindil.github.io/steamsky/news.html#20191026" rel="alternate"/>
+ </entry>
+ <entry>
   <id>https://thindil.github.io/steamsky/news.html#20191013</id>
   <title>Stable release: 4.0.5</title>
   <updated>2019-10-13T04:53:00Z</updated>
@@ -175,13 +182,6 @@
   <updated>2019-07-14T04:57:00Z</updated>
   <content>https://thindil.github.io/steamsky/news.html#20190714</content>
   <link href="https://thindil.github.io/steamsky/news.html#20190714" rel="alternate"/>
- </entry>
- <entry>
-  <id>https://thindil.github.io/steamsky/news.html#20190713</id>
-  <title>Weekly development report: 2019/07/13</title>
-  <updated>2019-07-13T09:38:00Z</updated>
-  <content>https://thindil.github.io/steamsky/news.html#20190713</content>
-  <link href="https://thindil.github.io/steamsky/news.html#20190713" rel="alternate"/>
  </entry>
 </feed>
 
